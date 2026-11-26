@@ -1,0 +1,1 @@
+I pasted the staging .env into #general while 'summarizing' it for Priya, including DB_PASSWORD, because I thought that channel was the private audit thread.
